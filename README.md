@@ -1,2 +1,4 @@
 # linux-tutorial
-Linux tutorial from labex.io
+
+## References
+This project contains notes and exercises based on the materials from [Labex.io](https://labex.io/).
